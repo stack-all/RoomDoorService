@@ -1,3 +1,4 @@
+.gitignore
 # MicroPython compiled files
 *.mpy
 __pycache__/
