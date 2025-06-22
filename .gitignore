@@ -1,0 +1,74 @@
+# MicroPython compiled files
+*.mpy
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Windows
+*.lnk
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Device specific files
+boot_out.txt
+
+# Build and distribution files
+build/
+dist/
+*.egg-info/
+
+# Documentation
+docs/_build/
+
+# Test coverage
+htmlcov/
+.coverage
+.pytest_cache/
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# Project specific (if any)
+config.json
+secrets.json
+credentials.json
+*.key
+*.pem
+*.crt
+
+# Backup files
+*.bak
+*.orig
